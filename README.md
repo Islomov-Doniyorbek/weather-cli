@@ -3,4 +3,4 @@
 ## Tech Stack
 
 - Node.js
-- JavaScript (CommonJS)
+- JavaScript (Modules)
