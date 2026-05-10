@@ -1,6 +1,7 @@
 {
   "name": "weather-cli",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -12,5 +13,9 @@
   "description": "",
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "dedent": "^1.7.2"
   }
 }
